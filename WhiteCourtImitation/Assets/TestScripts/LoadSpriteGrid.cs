@@ -77,7 +77,7 @@ public class LoadSpriteGrid : MonoBehaviour {
             }
         }
 
-        for (int i=0;i<spriteRemoveId.Count;i++)
+        for (int i = 0; i < spriteRemoveId.Count; i++)
         {
             SpriteRenderer tempSpriteRender = dictSprite[spriteRemoveId[i]];
             tempSpriteRender.color = new Color32(0, 0, 0, 255);

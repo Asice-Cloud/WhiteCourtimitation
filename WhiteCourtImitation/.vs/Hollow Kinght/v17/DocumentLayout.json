@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|c:\\users\\24922\\source\\repos\\whitecourtimitation\\whitecourtimitation\\assets\\scripts\\level1script\\trapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1script\\trapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A26920-F503-0842-9DE2-D88F329D77CE}|Assembly-CSharp.csproj|C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\assets\\scripts\\level1script\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A26920-F503-0842-9DE2-D88F329D77CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1script\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|c:\\users\\24922\\source\\repos\\whitecourtimitation\\whitecourtimitation\\assets\\scripts\\level1script\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1script\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A26920-F503-0842-9DE2-D88F329D77CE}|Assembly-CSharp.csproj|c:\\users\\24922\\source\\repos\\whitecourtimitation\\whitecourtimitation\\assets\\scripts\\level1script\\playcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A26920-F503-0842-9DE2-D88F329D77CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1script\\playcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|c:\\users\\24922\\source\\repos\\whitecourtimitation\\whitecourtimitation\\assets\\scripts\\level1script\\playcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1script\\playcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A26920-F503-0842-9DE2-D88F329D77CE}|Assembly-CSharp.csproj|C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\assets\\scripts\\audiomanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A26920-F503-0842-9DE2-D88F329D77CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\assets\\scripts\\level1script\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1script\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A26920-F503-0842-9DE2-D88F329D77CE}|Assembly-CSharp.csproj|C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\assets\\scripts\\level1script\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A26920-F503-0842-9DE2-D88F329D77CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1script\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|c:\\users\\24922\\source\\repos\\whitecourtimitation\\whitecourtimitation\\assets\\scripts\\level1script\\backimgmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1script\\backimgmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\assets\\scripts\\audiomanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA46B672-D049-D71B-A78D-1B690C60D8D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A26920-F503-0842-9DE2-D88F329D77CE}|Assembly-CSharp.csproj|C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\assets\\scripts\\level1script\\backimgmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A26920-F503-0842-9DE2-D88F329D77CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1script\\backimgmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,43 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TrapController.cs",
-              "DocumentMoniker": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\Assets\\Scripts\\Level1Script\\TrapController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1Script\\TrapController.cs",
-              "ToolTip": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\Assets\\Scripts\\Level1Script\\TrapController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Level1Script\\TrapController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowDEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T00:52:01.717Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SavePoint.cs",
               "DocumentMoniker": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\Assets\\Scripts\\Level1Script\\SavePoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Level1Script\\SavePoint.cs",
               "ToolTip": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\Assets\\Scripts\\Level1Script\\SavePoint.cs",
               "RelativeToolTip": "Assets\\Scripts\\Level1Script\\SavePoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T00:52:00.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PlayCamera.cs",
               "DocumentMoniker": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\Assets\\Scripts\\Level1Script\\PlayCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Level1Script\\PlayCamera.cs",
               "ToolTip": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\Assets\\Scripts\\Level1Script\\PlayCamera.cs",
               "RelativeToolTip": "Assets\\Scripts\\Level1Script\\PlayCamera.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T00:50:50.943Z",
               "EditorCaption": ""
@@ -83,10 +70,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Level1Script\\BackImgMove.cs",
               "ToolTip": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\Assets\\Scripts\\Level1Script\\BackImgMove.cs",
               "RelativeToolTip": "Assets\\Scripts\\Level1Script\\BackImgMove.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T00:49:34.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T00:49:34.767Z"
             },
             {
               "$type": "Document",
@@ -96,21 +82,20 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Level1Script\\MoveController.cs",
               "ToolTip": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\Assets\\Scripts\\Level1Script\\MoveController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Level1Script\\MoveController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADwAAAAnAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T00:47:52.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T00:47:52.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AudioManger.cs",
               "DocumentMoniker": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\Assets\\Scripts\\AudioManger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManger.cs",
               "ToolTip": "C:\\Users\\24922\\source\\repos\\WhiteCourtimitation\\WhiteCourtImitation\\Assets\\Scripts\\AudioManger.cs",
               "RelativeToolTip": "Assets\\Scripts\\AudioManger.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T00:47:52.683Z"
             }
           ]

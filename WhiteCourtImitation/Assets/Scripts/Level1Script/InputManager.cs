@@ -41,8 +41,6 @@ public class InputManager : MonoBehaviour {
         KeyInit();
         isGetKey = false;
     }
-
-
     public void KeyInit()
     {
         moveUpKey = KeyCode.W;
